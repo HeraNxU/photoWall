@@ -1,15 +1,16 @@
 # python照片墙制作工具
 
 最终生成如下图片
-![最终生成的图片]()
+![最终生成的图片](https://github.com/HeraNxU/photoWall/blob/master/PhotoWall.png)
 
 # Prepare
 python3环境
 
 # Install
+```
 shell
 pip3 install pillow
-
+```
 # Use
 1. images/文件夹下放制作照片墙的图片 并保证10张及以上, 请提前命名[照片序号].png, 从0开始计数, 如'0.png', 
 2. images2/文件夹下放文字图片 并命名为'tip.png'
