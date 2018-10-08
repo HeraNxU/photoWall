@@ -26,8 +26,11 @@ python3 index.py 1     (不含tip.png, 照片数10)
 python3 index.py 1 40  (不含tip.png, 照片数40)
 ```
 # Problems
+```
 []imgCount大于实际images/下数目时部分图片不展示
-
+```
 # Todo
+```
 []动态读取images images2/下照片数目
 []根据入参自动修改文字矩阵picMatrix
+```
